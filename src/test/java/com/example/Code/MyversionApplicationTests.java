@@ -1,4 +1,4 @@
-package com.example.myversion;
+package com.example.Code;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
